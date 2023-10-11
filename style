@@ -1,0 +1,14 @@
+img{
+    /*Manipulando a imagem do site*/
+    width: 190px; /*tamanho da imagem*/
+    float: left; /*Colocar a imagem ao lado dos escritos*/
+    border: thin solid;/*Imagem com linha preta em volta*/
+    padding: 5px; /*Borda na imagem*/
+    margin: 0px 10px 10px 0px; /*Distanciamento da imagem das letras*/
+}
+
+
+
+head{
+    align: center;
+}
