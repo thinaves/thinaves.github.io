@@ -1,6 +1,6 @@
 img{
     /*Manipulando a imagem do site*/
-    width: 100px; /*tamanho da imagem*/
+    width: 190px; /*tamanho da imagem*/
     float: left; /*Colocar a imagem ao lado dos escritos*/
     border: thin solid;/*Imagem com linha preta em volta*/
     padding: 5px; /*Borda na imagem*/
