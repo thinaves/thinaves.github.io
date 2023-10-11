@@ -1,5 +1,3 @@
-# thinaves.github.io
-Curriculo Pessoal
 <!DOCTYPE html>
 <html lang="en">
 <head>
