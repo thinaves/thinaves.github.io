@@ -1,14 +1,26 @@
-img{
-    /*Manipulando a imagem do site*/
-    width: 190px; /*tamanho da imagem*/
-    float: left; /*Colocar a imagem ao lado dos escritos*/
-    border: thin solid;/*Imagem com linha preta em volta*/
-    padding: 5px; /*Borda na imagem*/
-    margin: 0px 10px 10px 0px; /*Distanciamento da imagem das letras*/
+body {
+    text-align: center;
 }
-head{
-    align: center;
+
+.image-container {
+    margin-top: 20px;
 }
+
+.image-container img {
+    width: 150px; /* ajuste conforme necessário */
+    height: auto;
+}
+
+.button-container {
+    list-style-type: none;
+    padding: 0;
+}
+
+.button-container li {
+    display: inline;
+    margin: 5px;
+}
+
 .button {
     display: inline-block;
     padding: 10px 20px;
