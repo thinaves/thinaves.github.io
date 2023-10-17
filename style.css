@@ -7,8 +7,8 @@ body {
 }
 
 .image-container img {
-    width: 50px; /* ajuste conforme necessário */
-    height: 50px;
+    width: 100px; /* ajuste conforme necessário */
+    height: auto;
 }
 
 .button-container {
