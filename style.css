@@ -7,7 +7,7 @@ body {
 }
 
 .image-container img {
-    width: 25px; /* ajuste conforme necessário */
+    width: 0px; /* ajuste conforme necessário */
     height: auto;
 }
 
