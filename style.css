@@ -1,9 +1,12 @@
 body {
     text-align: center;
+    /*margin-right: 50%;*/
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .image-container {
     margin-top: 20px;
+    /*margin-right: 100%;*/
 }
 
 .image-container img {
@@ -32,4 +35,8 @@ body {
 
 .button:hover {
     background-color: #0056b3;
+}
+
+li{
+    text-align: left;
 }
