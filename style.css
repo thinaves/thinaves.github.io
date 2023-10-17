@@ -6,9 +6,9 @@ body {
     margin-top: 20px;
 }
 
-.image-container {
-    width: 50px; /* ajuste conforme necessário */
-    height: 50px;
+.image-container img {
+    width: 150px; /* ajuste conforme necessário */
+    height: auto;
 }
 
 .button-container {
