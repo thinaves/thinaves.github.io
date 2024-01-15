@@ -38,5 +38,7 @@ body {
 }
 
 li{
-    text-align: left;
+    text-align: auto;
+    text-align: auto;
+    margin-left: auto;
 }
